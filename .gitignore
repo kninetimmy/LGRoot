@@ -4,3 +4,6 @@ __pycache__/
 dist/
 
 *.key
+.memhub/
+agent_docs/PROJECT.md
+agent_docs/PROJECT_LEDGER.md
